@@ -1,1 +1,1 @@
-My first readme
+Codding is enjoyable
